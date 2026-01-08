@@ -12,5 +12,5 @@ Este repositorio representa un proceso de aprendizaje práctico y progresivo, ba
 Este cuaderno analiza el comportamiento diario del precio de Bitcoin mediante retornos logarítmicos. A partir de datos históricos, se estudia la distribución de los retornos y se compara con una distribución normal para mostrar por qué este modelo no describe bien el riesgo real del mercado.
 
 👉 **Cuaderno:**  
-[Análisis de los retornos de Bitcoin](./analisis_retornos_bitcoin.ipynb)
+[Análisis de los retornos de Bitcoin](Distribución_de_retornos.ipynb)
 
