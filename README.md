@@ -1,4 +1,7 @@
-📊 Introducción
-Este repositorio recopila Google Colab orientados al análisis estadístico de mercados financieros y al uso de machine learning mayormente aplicado a bolsa y cripto (se verán otros temas tambien). Los cuadernos están diseñados como ejercicios prácticos y experimentales, usando datos reales y centrándose en entender el comportamiento del mercado, el riesgo y las limitaciones reales de los modelos predictivos.
-El objetivo no es “predecir el mercado”, sino aprender a analizarlo con criterio: estudiar la distribución de los retornos, la volatilidad, los drawdowns, las correlaciones y cómo estas características afectan al rendimiento de cualquier modelo estadístico o de machine learning. Cada notebook plantea una pregunta concreta, la analiza con datos y termina con conclusiones claras y realistas.
-Este repositorio refleja un proceso de aprendizaje continuo, basado en datos, estadística y pensamiento crítico, no en promesas irreales ni estrategias milagro.
+## 📊 Introducción
+
+Este repositorio recopila **Google Colab centrados en el análisis estadístico de mercados financieros y en machine learning mayormente aplicado a bolsa y cripto**(se verán otros temas tambien). Los notebooks utilizan datos reales y están orientados a comprender cómo se comportan los precios, los retornos y el riesgo, sin atajos ni promesas irreales.
+
+El objetivo no es “predecir el mercado”, sino **analizarlo con criterio**: estudiar la distribución de los retornos, la volatilidad, los drawdowns, las correlaciones y las limitaciones reales de los modelos estadísticos y de machine learning. Cada cuaderno aborda una pregunta concreta, la analiza con datos y termina con conclusiones claras y honestas.
+
+Este repositorio representa un proceso de aprendizaje práctico y progresivo, basado en **estadística, datos y pensamiento crítico**, enfocado a entender qué funciona, qué no y por qué en los mercados financieros.
