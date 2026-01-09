@@ -16,16 +16,7 @@ Este cuaderno analiza el comportamiento diario del precio de Bitcoin mediante re
 
 ### 📊 Análisis estadístico: Bitcoin vs S&P 500
 
-Este cuaderno forma parte del proyecto y se ha desarrollado de manera progresiva, paso a paso.  
 En él se realiza una **comparación estadística entre Bitcoin y el índice S&P 500** utilizando datos históricos reales en frecuencia diaria.
-
-El análisis incluye:
-- Preparación y limpieza de datos  
-- Cálculo de retornos logarítmicos  
-- Estudio de volatilidad y distribución de retornos  
-- Análisis de correlación (estática y móvil)  
-- Análisis de drawdowns y caídas máximas  
-
 El objetivo es entender las **diferencias de comportamiento y riesgo** entre Bitcoin y el mercado bursátil tradicional, sentando una base sólida para análisis más avanzados en cuadernos posteriores.
 
 👉 **Cuaderno:** 
