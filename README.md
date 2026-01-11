@@ -21,4 +21,11 @@ El objetivo es entender las **diferencias de comportamiento y riesgo** entre Bit
 👉 **Cuaderno:** 
 [Bitcoin vs S&P 500 – Análisis estadístico](bitcoin_vs_sp500_analisis_estadistico.ipynb)
 
+### 📊 Análisis por ciclos de halving de Bitcoin
+
+Este cuaderno analiza el comportamiento de **Bitcoin a lo largo de los ciclos definidos por los halvings**, con el objetivo de evaluar de forma estadística la hipótesis del **ciclo de cuatro años**.  
+Se estudian los cambios en retornos, volatilidad y drawdown entre ciclos, apoyados por visualizaciones que permiten observar la **evolución del riesgo y la maduración del activo** con el paso del tiempo.
+
+👉 **Cuaderno:**  [Bitcoin por ciclos de halving – Análisis estadístico](bitcoin_ciclos_halving_analisis_estadistico.ipynb)
+
 
